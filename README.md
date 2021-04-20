@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tr1deep
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning to code
+<h1><i>🙏 Namaste</i>, I’m Trideep🧑‍💻</h1>
+
+<i>I like to code</i>
 
 <!---
 tr1deep/tr1deep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
