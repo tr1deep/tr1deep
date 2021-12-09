@@ -1,5 +1,5 @@
-<h1>Heyya 👋🏼,  I’m Trideep</h1>
-<i> I like programming </i>
+<h1 align="center">Heyya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I am Trideep</h1>
+<i> Cybersec Enthusiast </i>
 
 <h2>💬Get in touch</h2>
 • Twitter : https://twitter.com/tr1deep
