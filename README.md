@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I am Trideep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨‍💻</h2>
+<h1 align="center">Hi, I am Trideep <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨‍💻</h1>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
