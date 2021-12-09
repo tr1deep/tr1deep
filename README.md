@@ -11,7 +11,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"                alt="python" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"      width="40" height="40"/> </a> 
 </p>
-Feel free to connect 💬 
+Feel free to connect 💬 <br>
 <a href="https://twitter.com/tr1deep" target="_blank"> <img src="https://img.icons8.com/color/48/000000/twitter--v2.png" /> </a>
 
 
