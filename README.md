@@ -6,7 +6,11 @@ You can click the Preview link to take a look at your changes.
 
 I run software-engineering tasks that help train advanced AI systems.
 
+~ % ls
+
 **Latest project:** Ongoing
+
+~ % ssh user@host
 
 if you’re working on interesting open-source or AI evaluation projects then Let’s Connect.  
  
