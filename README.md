@@ -12,6 +12,9 @@ I run software-engineering tasks that help train advanced AI systems.
 
 ~ % ssh user@host
 
-if you’re working on interesting open-source or AI evaluation projects then Let’s Connect.  
+if you’re working on interesting open-source or AI evaluation projects then 
+
+Let’s Connect
+👇
  
 [twitter](https://x.com/tr1deep) | [linkedin](https://www.linkedin.com/in/tr1deep/)
